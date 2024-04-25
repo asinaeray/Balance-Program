@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\Admin\Desktop\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\Admin\Desktop\deneme\deneme\obj\x86\Debug\deneme.Form1.resources
+C:\Users\Admin\Desktop\deneme\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+C:\Users\Admin\Desktop\deneme\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\deneme\deneme\obj\x86\Debug\deneme.exe
+C:\Users\Admin\Desktop\deneme\deneme\obj\x86\Debug\deneme.pdb
